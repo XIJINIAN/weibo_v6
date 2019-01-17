@@ -18,15 +18,15 @@
 
 ## 准备
 
-使用本脚本之前，你需要安装 Chrome 浏览器或者 FireFox 浏览器等现代浏览器。然后在浏览器上安装自己喜欢的**用户脚本管理器**，如 [Violentmonkey](https://violentmonkey.github.io/)。
+使用本脚本之前，你需要安装 Chrome 或者 FireFox 等现代浏览器。然后在浏览器上安装自己喜欢的**用户脚本管理器**，如 [Violentmonkey](https://violentmonkey.github.io/)。
 
 ## 使用
 
-以 Violentmonkey 为例：
+本操作步骤以 Violentmonkey 为例：
 
 1. 点击创建新脚本：
 
-![](https://i.loli.net/2019/01/17/5c404a1de61f7.png)
+   ![](https://i.loli.net/2019/01/17/5c404a1de61f7.png)
 
 2. 清空面板中原有内容，将 java.user.js 文件中的代码粘贴进去后保存并退出，这样就 OK 了：
 
