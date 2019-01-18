@@ -12,7 +12,7 @@
 
 ![](https://i.loli.net/2019/01/17/5c4047a0904e6.png)
 
-当然如果需要的话，你可以配合 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 之类的脚本做一些自定义设置，可以屏蔽更多不想要的东西（如顶栏的用户名），界面更适合自己的偏好：
+当然如果需要的话，你可以配合 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 之类的脚本做一些自定义设置，可以屏蔽更多不想要的东西（如顶栏的用户名），使界面更符合自己的偏好：
 
 ![](https://i.loli.net/2019/01/17/5c4048a069b09.png)
 
