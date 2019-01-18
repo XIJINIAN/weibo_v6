@@ -3,6 +3,7 @@
 // @namespace     http://userstyles.org
 // @description   weibo
 // @author        mickey7q7
+// @match         *://*.weibo.com/*
 // @homepage      https://userstyles.org/styles/106272
 // @run-at        document-start
 // @version       0.20201015123135
