@@ -2,7 +2,7 @@
 
 ## 说明
 
-我非常喜欢的 weibo 美化脚本 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。另：为防止被覆盖更新，改了 `@homepage` 为 `null`。
+我非常喜欢的 weibo 美化脚本 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。另：为防止被覆盖更新，改了 `@version` 为 `0.20201015123135`。
 
 说说我为什么喜欢它吧，不用它之前，微博的界面是这样的：
 
@@ -12,7 +12,7 @@
 
 ![](https://i.loli.net/2019/01/17/5c4047a0904e6.png)
 
-当然如果需要的话，你可以配合 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 之类的脚本做一些自定义设置，可以屏蔽更多不想要的东西（如顶栏的用户名），界面更适合自己的偏爱：
+当然如果需要的话，你可以配合 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 之类的脚本做一些自定义设置，可以屏蔽更多不想要的东西（如顶栏的用户名），界面更适合自己的偏好：
 
 ![](https://i.loli.net/2019/01/17/5c4048a069b09.png)
 

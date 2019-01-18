@@ -3,9 +3,9 @@
 // @namespace     http://userstyles.org
 // @description   weibo
 // @author        mickey7q7
-// @homepage      null
+// @homepage      https://userstyles.org/styles/106272
 // @run-at        document-start
-// @version       0.20181015123135
+// @version       0.20201015123135
 // ==/UserScript==
 (function() {var css = "";
 if (false || (document.domain == "weibo.com" || document.domain.substring(document.domain.indexOf(".weibo.com") + 1) == "weibo.com"))
