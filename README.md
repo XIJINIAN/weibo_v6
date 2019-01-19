@@ -2,7 +2,7 @@
 
 ## 说明
 
-我非常喜欢的 weibo 美化样式 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。
+我非常喜欢的 weibo 美化样式 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得有非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。
 
 应用这个样式有两种方式，一种是使用 [java.user.js](https://github.com/XIJINIAN/weibo_v6/blob/master/java.user.js)，另一种是使用 [Stylish.Stylus.css](https://github.com/XIJINIAN/weibo_v6/blob/master/Stylish.Stylus.css)。区别不大，**任选其一即可**。
 
@@ -24,12 +24,12 @@
 
 ## 准备
 
-使用本脚本之前，你需要安装 Chrome 或者 FireFox 等现代浏览器。然后下面两种使用方式**二选一**。
+在应用本样式之前，你需要安装 Chrome 或者 FireFox 等现代浏览器，然后在下面两种应用方式**二选一**：
 
 - 在浏览器上安装自己喜欢的**用户脚本管理器**，如 [Violentmonkey](https://violentmonkey.github.io/)。
 - 在浏览器上安装 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 插件，我推荐安装后者。
 
-## 使用
+## 应用样式
 
 ### 使用用户脚本管理器方式（如  [Violentmonkey](https://violentmonkey.github.io/)）
 
