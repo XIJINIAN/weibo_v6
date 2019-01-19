@@ -1,10 +1,16 @@
-# weibo_v6 微博美化脚本
+# weibo_v6 微博美化样式
 
 ## 说明
 
-我非常喜欢的 weibo 美化脚本 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。另：为防止其在不需要的时候启动，增加了 `@match` 标签；为防止被覆盖更新，改了 `@version` 为 `0.20201015123135`。
+我非常喜欢的 weibo 美化样式 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。
 
-说说我为什么喜欢它吧，不用它之前，微博的界面是这样的：
+应用这个样式有两种方式，一种是使用 [java.user.js](https://github.com/XIJINIAN/weibo_v6/blob/master/java.user.js)，另一种是使用 [Stylish.Stylus.css](https://github.com/XIJINIAN/weibo_v6/blob/master/Stylish.Stylus.css)。区别不大，**任选其一即可**。
+
+对于文件中的 [java.user.js](https://github.com/XIJINIAN/weibo_v6/blob/master/java.user.js) ，我做了如下修改：① 为防止其在不需要的时候启动，增加了 `@match` 标签；② 为防止被覆盖更新，改了 `@version` 为 `0.20201015123135`。
+
+对于文件中的 [Stylish.Stylus.css](https://github.com/XIJINIAN/weibo_v6/blob/master/Stylish.Stylus.css)，感谢 [thekingofcity](https://github.com/thekingofcity) 同学的 commit。
+
+另：说说我为什么喜欢这个样式吧，不用它之前，微博的界面是这样的：
 
 ![](https://i.loli.net/2019/01/17/5c40474a4d4ee.png)
 
@@ -18,16 +24,33 @@
 
 ## 准备
 
-使用本脚本之前，你需要安装 Chrome 或者 FireFox 等现代浏览器。然后在浏览器上安装自己喜欢的**用户脚本管理器**，如 [Violentmonkey](https://violentmonkey.github.io/)。
+使用本脚本之前，你需要安装 Chrome 或者 FireFox 等现代浏览器。然后下面两种使用方式**二选一**。
+
+- 在浏览器上安装自己喜欢的**用户脚本管理器**，如 [Violentmonkey](https://violentmonkey.github.io/)。
+- 在浏览器上安装 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 插件，我推荐安装后者。
 
 ## 使用
 
-本操作步骤以 Violentmonkey 为例：
+### 使用用户脚本管理器方式（如  [Violentmonkey](https://violentmonkey.github.io/)）
 
-1. 点击创建新脚本：
+点击  [java.user.js](https://github.com/XIJINIAN/weibo_v6/blob/master/java.user.js) 右上角的 [Raw](https://github.com/XIJINIAN/weibo_v6/raw/master/java.user.js)，再点击“确认安装”即可（感谢 [GregAMO](https://github.com/GregAMO) 同学的补充）：
 
-   ![](https://i.loli.net/2019/01/17/5c404a1de61f7.png)
+![](https://i.loli.net/2019/01/19/5c42f00a7aa98.png)
 
-2. 清空面板中原有内容，将 java.user.js 文件中的代码粘贴进去后保存并退出，这样就 OK 了：
+### 使用 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 方式
 
-   ![](https://i.loli.net/2019/01/17/5c404cab0b8f9.png)
+本步骤以 Stylus 为例：
+
+1. 在浏览器中打开 Stylus 插件，点击“编写新样式”：
+
+   ![](https://i.loli.net/2019/01/19/5c42f1d30d8b1.png)
+
+2. 将 [Stylish.Stylus.css](https://github.com/XIJINIAN/weibo_v6/blob/master/Stylish.Stylus.css) 中的内容粘贴到输入框，点击“覆盖样式”：
+
+   ![](https://i.loli.net/2019/01/19/5c42f2ba2594f.png)
+
+3. 输入名称“weibo_v6”后，点击“保存”（你可以输入你喜欢的任何名称）：
+
+   ![](https://i.loli.net/2019/01/19/5c42f38e982ef.png)
+
+   
