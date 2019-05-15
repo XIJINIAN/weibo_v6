@@ -1565,4 +1565,8 @@
         }
     }
     /*配色*/
+    .WB_feed_v3 .WB_media_a_mn li {
+        width: 150px;
+        height: 150px;
+    }
 }
