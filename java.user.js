@@ -1484,7 +1484,11 @@ if (false || (new RegExp("^(http|https)://(www.weibo.com|weibo.com)/+.*$")).test
         "            margin-top: -35px !important;",
         "        }",
         "    }",
-        "    /*配色*/"
+        "    /*配色*/",
+        ".WB_feed_v3 .WB_media_a_mn li {",
+        "    width: 150px;",
+        "    height: 150px;",
+        "}"
     ].join("\n");
 if (false || (new RegExp("^(http|https)://(www.weibo.com|weibo.com)/message+.*$")).test(document.location.href))
     css += [
