@@ -37,6 +37,7 @@
     .WB_global_nav .gn_position {
         position: absolute !important;
         left: 0 !important;
+        top: 0;
     }
     .WB_global_nav .gn_position .gn_nav {
         margin: 12px 0 0 !important;
@@ -96,6 +97,7 @@
         margin: 11px 10px 0 0 !important;
         border: 0px !important;
         border-radius: 50px !important;
+        top: 0;
     }
     .WB_global_nav .gn_search_v2 .placeholder,
     .WB_global_nav .gn_search_v2 .W_input {
