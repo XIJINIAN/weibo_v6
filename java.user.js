@@ -1488,6 +1488,12 @@ if (false || (new RegExp("^(http|https)://(www.weibo.com|weibo.com)/+.*$")).test
         ".WB_feed_v3 .WB_media_a_mn li {",
         "    width: 150px;",
         "    height: 150px;",
+        "}",
+        ".WB_feed_handle .WB_handle {",
+        "    margin: 20px 0 0 0;",
+        "}",
+        ".WB_feed_handle .WB_row_line {",
+        "    border-top-width: 0px !important;",
         "}"
     ].join("\n");
 if (false || (new RegExp("^(http|https)://(www.weibo.com|weibo.com)/message+.*$")).test(document.location.href))

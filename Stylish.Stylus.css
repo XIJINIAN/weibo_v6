@@ -1569,4 +1569,10 @@
         width: 150px;
         height: 150px;
     }
+    .WB_feed_handle .WB_handle {
+        margin: 20px 0 0 0;
+    }
+    .WB_feed_handle .WB_row_line {
+        border-top-width: 0px !important;
+    }
 }
