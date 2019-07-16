@@ -1565,9 +1565,8 @@
         }
     }
     /*配色*/
-    .WB_feed_v3 .WB_media_a_mn li {
-        width: 150px;
-        height: 150px;
+    .WB_media_a>li:nth-of-type(3n) {
+        margin-right: 200px;
     }
     .WB_feed_handle .WB_handle {
         margin: 20px 0 0 0;
