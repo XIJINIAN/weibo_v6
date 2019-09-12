@@ -22,7 +22,6 @@
     .WB_global_nav .gn_logo,
     .WB_global_nav .gn_logo .box,
     .WB_global_nav .gn_logo .box .logo {
-        width: 190px !important;
         margin: 0 !important;
         background-position: 0 50% !important;
     }
