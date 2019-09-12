@@ -1,5 +1,9 @@
 # weibo_v6 微博美化样式
 
+## update 20190912
+
+感谢 [MoonFlame](https://github.com/MoonFlame) 同学修复了导航栏下移和微博 logo 缩放的问题。
+
 ## 说明
 
 我非常喜欢的 weibo 美化样式 [weibo_v6](https://userstyles.org/styles/106272/weibo-v6) 因不明原因被其作者删除，本着互联网分享精神，我把备份文件分享出来，因为我觉得有非常多的朋友喜欢并需要。如果原作者不想公开分享，请随时联系我删除。
