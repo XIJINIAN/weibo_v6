@@ -1,5 +1,9 @@
 # weibo_v6 微博美化样式
 
+## update 20190921
+
+修复导航栏下移问题。
+
 ## update 20190912
 
 感谢 [MoonFlame](https://github.com/MoonFlame) 同学修复了导航栏下移和微博 logo 缩放的问题。
@@ -57,4 +61,15 @@
 
    ![](https://i.loli.net/2019/01/19/5c42f38e982ef.png)
 
-   
+## 其他说明
+使用最新版 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 的时候发现，它 weibo_v6 样式有冲突，导致微博 feeds 流右侧多出了一块空白，解决办法是注释掉 Yet Another Weibo Filter 中的一句代码：
+
+```css
+html .B_index .WB_frame #plc_main,
+html .B_message .WB_frame #plc_main,
+html .B_discover .WB_frame #plc_main,
+html .B_page .WB_frame #plc_main {
+  // 这里注释掉
+  // width: calc(var(--yawf-feed-width) + var(--yawf-right-width)) !important;
+}
+```
