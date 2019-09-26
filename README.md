@@ -62,7 +62,7 @@
    ![](https://i.loli.net/2019/01/19/5c42f38e982ef.png)
 
 ## 其他说明
-使用最新版 [Yet Another Weibo Filter](https://tiansh.github.io/yawf/zh-cn.html) 的时候发现，它 weibo_v6 样式有冲突，导致微博 feeds 流右侧多出了一块空白，解决办法是注释掉 Yet Another Weibo Filter 中的一句代码：
+使用最新版 [Yet Another Weibo Filter(Version 4.0.46)](https://tiansh.github.io/yawf/zh-cn.html) 的时候发现，它和 weibo_v6 样式有冲突，导致微博 feeds 流右侧多出了一块空白，解决办法是注释掉 Yet Another Weibo Filter 中的一句代码：
 
 ```css
 html .B_index .WB_frame #plc_main,
