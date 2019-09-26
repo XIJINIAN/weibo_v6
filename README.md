@@ -69,7 +69,7 @@ html .B_index .WB_frame #plc_main,
 html .B_message .WB_frame #plc_main,
 html .B_discover .WB_frame #plc_main,
 html .B_page .WB_frame #plc_main {
-  // 这里注释掉
-  // width: calc(var(--yawf-feed-width) + var(--yawf-right-width)) !important;
+  /* 这里注释掉 */
+  /* width: calc(var(--yawf-feed-width) + var(--yawf-right-width)) !important; */
 }
 ```
