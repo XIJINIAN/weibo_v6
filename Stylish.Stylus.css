@@ -24,6 +24,8 @@
 .WB_global_nav .gn_logo .box .logo {
     margin: 0 !important;
     background-position: 0 50% !important;
+    height: 44px !important;
+    width: 174px !important;
 }
 .WB_global_nav_us .gn_logo {
     left: -50px !important;
@@ -35,8 +37,11 @@
 }
 .WB_global_nav .gn_position {
     position: absolute !important;
-    left: 0px !important;
+    left: 120px !important;
     top: 0px !important;
+}
+#plc_top > div > div > div.gn_position > div.gn_nav > ul > li:nth-child(5) > a {
+    display: none;
 }
 .WB_global_nav .gn_position .gn_nav {
     margin: 12px 0 0 !important;
