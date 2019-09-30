@@ -18,13 +18,11 @@
 
 ## 准备
 
-在应用本样式之前，你需要安装 Chrome 或者 FireFox 等现代浏览器：
+1. 安装 Chrome 或者 FireFox 等现代浏览器：
 
-- 在浏览器上安装 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 插件，我推荐安装后者。
+2. 在浏览器上安装 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 插件，我推荐安装后者。
 
-## 应用样式
-
-本步骤以 Stylus 为例：
+## 应用样式（以 Stylus 为例）
 
 1. 在浏览器中打开 Stylus 插件，点击“编写新样式”：
 
