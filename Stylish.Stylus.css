@@ -1,4 +1,7 @@
 @-moz-document domain("weibo.com") {
+    #v6_pl_rightmod_myinfo {
+        display: none !important
+    }
     /* navbar */
     .WB_global_nav .gn_header {
         width: 100% !important;
